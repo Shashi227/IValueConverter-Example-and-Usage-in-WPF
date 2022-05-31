@@ -1,0 +1,6 @@
+C:\Users\shash\OneDrive\Desktop\WPFC#\IvalueConveter\IvalueConveter\obj\Debug\net5.0-windows\IvalueConveter.csproj.AssemblyReference.cache
+C:\Users\shash\OneDrive\Desktop\WPFC#\IvalueConveter\IvalueConveter\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\shash\OneDrive\Desktop\WPFC#\IvalueConveter\IvalueConveter\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\shash\OneDrive\Desktop\WPFC#\IvalueConveter\IvalueConveter\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\shash\OneDrive\Desktop\WPFC#\IvalueConveter\IvalueConveter\obj\Debug\net5.0-windows\IvalueConveter_MarkupCompile.cache
+C:\Users\shash\OneDrive\Desktop\WPFC#\IvalueConveter\IvalueConveter\obj\Debug\net5.0-windows\IvalueConveter_MarkupCompile.lref
